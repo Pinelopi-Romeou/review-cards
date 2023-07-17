@@ -1,0 +1,21 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+}
+
+.container-lg {
+    background-color: rgb(255, 159, 41);
+}
+
+.hr {
+    color: rgb(215, 52, 2);
+}
+
+.card {
+    padding-top: 1.5rem;
+    background-color: rgb(230, 230, 230);
+}
+
+.card-subtitle {
+    color: #415a77;
+}
